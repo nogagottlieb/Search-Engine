@@ -1,1 +1,2 @@
 # Search-Engine
+a search engine in Java that processed text files into consistent forms. Built a data structure to support efficient search operations and implemented a search algorithm using the data structure. Incorporated multithreading for improved performance during building and searching. Extended the search engine's capabilities to process web pages into consistent forms. Created a web server using HTML and CSS for a user-friendly interface.![image](https://github.com/nogagottlieb/Search-Engine/assets/90576721/ceadd6a8-c95c-4e69-a866-92ab6d2f35e6)
